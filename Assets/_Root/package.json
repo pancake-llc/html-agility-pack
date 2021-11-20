@@ -1,0 +1,24 @@
+{
+  "name": "com.snorlax.html-agility-pack",
+  "displayName": "Html Agility Pack",
+  "description": "HTML parser to read/write DOM",
+  "version": "1.11.38",
+  "unity": "2019.1",
+  "category": "snorlax",
+  "author": {
+    "name": "Snorlax",
+    "email": "phongsoyenmoc.diep@gmail.com",
+    "url": "https://github.com/yenmoc"
+  },
+  "license": "MIT",
+  "keywords": [ "html" ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:snorluxe/html-agility-pack.git",
+    "directory": "com.snorlax.html-agility-pack"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@snorluxe"
+  }
+}
